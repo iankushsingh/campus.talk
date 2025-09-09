@@ -50,11 +50,11 @@ Below is the system workflow:
 ![Working Flowchart](CampusTalk_Workingflowchart.svg)
 
 ## 👥 Team Members
-- Anamika Singh  
-- Anshika Jain  
-- Ankush Singh Bhadauriya  
-- Akshansh Srivastava  
 - Adarsh Shukla  
+- Akshansh Srivastava  
+- Anamika Singh
+- Ankush Singh Bhadauriya  
+- Anshika Jain  
 
 ## ✅ Why CAMPUSTALK?
 - Makes academic management **fast, simple, and accessible**.  

@@ -1,0 +1,13 @@
+version: "3.0"
+intents:
+  - get_timetable
+  - get_attendance
+  - get_notices
+
+responses:
+  utter_ask_userid:
+  - text: "Please provide your student id."
+
+actions:
+  - action_call_backend
+

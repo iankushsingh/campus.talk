@@ -1,0 +1,16 @@
+version: "3.0"
+stories:
+- story: timetable path
+  steps:
+  - intent: get_timetable
+  - action: action_call_backend
+
+- story: attendance path
+  steps:
+  - intent: get_attendance
+  - action: action_call_backend
+
+- story: notices path
+  steps:
+  - intent: get_notices
+  - action: action_call_backend

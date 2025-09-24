@@ -1,0 +1,20 @@
+version: "3.0"
+nlu:
+- intent: get_timetable
+  examples: |
+    - what's my timetable today
+    - show my schedule
+    - what classes do I have today
+    - when is my next class
+
+- intent: get_attendance
+  examples: |
+    - show my attendance
+    - how many classes I attended
+    - today's attendance
+
+- intent: get_notices
+  examples: |
+    - show notices
+    - any announcements
+    - what's new
